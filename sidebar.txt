@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zay:home|Door43 (zay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zay|d43-zay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zay/archive/master.zip|d43-zay.zip]]
+
+**Recent Changes**
+{{changes>ns = zay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zay|Ethnologue data]]
+
